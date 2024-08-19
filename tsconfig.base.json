@@ -17,7 +17,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@ngxs-labs/emitter": [
+      "everleagues/emitter": [
         "libs/emitter/src/index.ts"
       ]
     }
